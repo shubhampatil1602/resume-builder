@@ -15,7 +15,7 @@ const ResumeSections = ({ tab, setTab }) => {
   ];
 
   return (
-    <div className='flex justify-center items-center gap-2 py-6'>
+    <div className='flex justify-center items-center gap-2 py-6 relative'>
       {buttons.map(({ id, icon, name }) => (
         <div key={id} className='relative group flex flex-col items-center'>
           {/* Button */}

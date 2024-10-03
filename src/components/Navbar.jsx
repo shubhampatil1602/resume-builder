@@ -15,7 +15,8 @@ const Navbar = () => {
             </span>
           </Link>
           <a
-            href='#'
+            href='https://github.com/shubhampatil1602/resume-builder'
+            target='_blank'
             className='font-medium transition hover:bg-[#18181B] h-9 w-10 md:w-24 rounded-md flex gap-2 justify-center items-center'
           >
             <span className='hidden md:block'>Github</span>

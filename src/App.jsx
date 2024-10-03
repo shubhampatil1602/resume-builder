@@ -51,7 +51,7 @@ const App = () => {
             }}
             className='w-full md:w-1/2 flex justify-end items-center md:mt-0 pb-6 md:pb-0'
           >
-            <div className='p-2 rounded-md bg-[#333333] animate-small-bounce relative shadow-lg shadow-zinc-800'>
+            <div className='p-2 rounded-md bg-[#0d181e] animate-small-bounce relative shadow-lg shadow-zinc-800'>
               <img
                 src={'/public/shubh-resume-builder_page-0001.jpg'}
                 alt='resume'
