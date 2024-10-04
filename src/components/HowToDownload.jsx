@@ -11,12 +11,12 @@ const HowToDownload = () => {
       </Link>
       <div className='w-full max-w-4xl p-6 pt-8 rounded-lg shadow-lg bg-white flex flex-col items-center'>
         <h1 className='text-black text-xl md:text-3xl font-bold mb-8'>
-          How to Download ?
+          How to Download your resume ?
         </h1>
         <div className='flex flex-col items-center space-y-8'>
           <div className='flex flex-col'>
             <p className='text-black mt-4 mb-3 text-left font-medium'>
-              1. Make sure to save first, then click on download
+              1. Make sure to click on save first, then click on download?
             </p>
             <img
               src='/one.png'
