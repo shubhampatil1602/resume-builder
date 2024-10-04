@@ -6,6 +6,7 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import { ResumeProvider } from './contexts/ResumeContext.jsx';
 import Write from './pages/Write.jsx';
 import ResumeContents from './pages/ResumeContents.jsx';
+import HowToDownload from './components/HowToDownload.jsx';
 
 const router = createBrowserRouter([
   {
@@ -19,6 +20,10 @@ const router = createBrowserRouter([
   {
     path: '/print',
     element: <ResumeContents />,
+  },
+  {
+    path: '/how-to-download',
+    element: <HowToDownload />,
   },
 ]);
 
