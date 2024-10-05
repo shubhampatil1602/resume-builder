@@ -53,7 +53,7 @@ const App = () => {
           >
             <div className='p-2 rounded-md bg-[#0d181e] animate-small-bounce relative shadow-lg shadow-zinc-800'>
               <img
-                src={'/shubh-resume-builder_page-0001.jpg'}
+                src={'/shubh-resume-builder_page-0001.png'}
                 alt='resume'
                 className='h-[400px] md:h-[500px] rounded object-cover'
               />
